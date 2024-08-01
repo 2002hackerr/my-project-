@@ -1,0 +1,3 @@
+*.log      # Ignore all .log files
+temp/       # Ignore the temp directory
+*.tmp       # Ignore all .tmp files
